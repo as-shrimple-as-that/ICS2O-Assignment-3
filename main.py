@@ -59,3 +59,5 @@ time.sleep(0.05)
 print('Your total is: $', round(T, 2))
 time.sleep(0.05)
 # yummy prices :drool:
+
+# program terminates, you ordered the worst pizza ever.
